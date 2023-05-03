@@ -10,7 +10,7 @@ export const Brand = {
   // Name: 'big-AGI',
   // UpperName: 'BIG-AGI',
   Title: {
-    Common: (process.env.NODE_ENV === 'development' ? '[DEV] ' : '') + 'big-AGI',
+    Common: (process.env.NODE_ENV === 'development' ? '[DEV] ' : '') + 'brex-AGI',
   },
   Meta: {
     SiteName: 'brex-AGI',
@@ -23,7 +23,7 @@ export const Brand = {
   URIs: {
     // Slug: 'brex-AGI',
     Home: 'https://agi-chat.itsbrex.dev',
-    CardImage: 'https://big-AGI.com/icons/card-dark-1200.png',
+    CardImage: 'https://agi-chat.itsbrex.dev/icons/agi-chat.png',
     OpenRepo: 'https://github.com/itsbrex/big-AGI',
     SupportInvite: 'https://discord.gg/MkH4qj2Jp9',
   },
